@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8089852e-4060-4842-952d-b4ffaacb0b32" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>org\linlinjava\litemall</find>
+      <find>F:\litemall-master\litemall-wx-api</find>
+      <find>javaall.wx.</find>
+      <find>&gt;litemall</find>
+      <find>F:\litemall-master\litemall-core</find>
+      <find>litemall</find>
+      <find>com.xfy.litemall</find>
+      <find>javaall-wx-api</find>
+      <find>javaall</find>
+      <find>com.xfy.apiall.wx.</find>
+      <find>linlinjava</find>
+      <find>org.linlinjava</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>com.xfy</replace>
+      <replace>com\xfy\javaall</replace>
+      <replace>F:\javaall-master\litemall-wx-api</replace>
+      <replace>F:\yxfapi\javaall-wx-api</replace>
+      <replace>javaall.api.</replace>
+      <replace>&gt;javaall</replace>
+      <replace>F:\yxfapi\javaall-core</replace>
+      <replace>com.xfy.javaall</replace>
+      <replace>javaall-api</replace>
+      <replace>apiall</replace>
+      <replace>com.xfy.apiall.api.</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>F:\yxfapi</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/javaall-api/src/main/java/com/xfy/javaall/api/config/WxWebMvcConfiguration.java" />
+        <option value="$PROJECT_DIR$/javaall-db/pom.xml" />
+        <option value="$PROJECT_DIR$/javaall-core/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/javaall-core/target/classes/application-core.yml" />
+        <option value="$PROJECT_DIR$/javaall-core/src/test/java/org/linlinjava/litemall/core/CoreConfigTest.java" />
+        <option value="$PROJECT_DIR$/javaall-core/src/test/java/org/linlinjava/litemall/core/AsyncTask.java" />
+        <option value="$PROJECT_DIR$/apiall-api/src/main/java/com/xfy/apiall/api/config/JwtConfiguration.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="260" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="yxfcouldapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yxfcouldapi" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556426437560" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8089852e-4060-4842-952d-b4ffaacb0b32" name="Default Changelist" comment="" />
+      <created>1554183326213</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554183326213</updated>
+      <workItem from="1554183328091" duration="1343000" />
+      <workItem from="1554185067848" duration="1403000" />
+      <workItem from="1554187867943" duration="35000" />
+      <workItem from="1554982707042" duration="68000" />
+      <workItem from="1555290364817" duration="299000" />
+      <workItem from="1556413332557" duration="69000" />
+      <workItem from="1556422708267" duration="14000" />
+      <workItem from="1556423087540" duration="2488000" />
+      <workItem from="1556426867529" duration="950000" />
+      <workItem from="1556439264444" duration="26000" />
+      <workItem from="1556499957931" duration="22000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6717000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2782516" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.32995737" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/apiall-all/src/main/java/com/xfy/javaall/Application.java" />
+    <entry file="file://$PROJECT_DIR$/apiall-core/src/main/java/com/xfy/javaall/core/qcode/QCodeService.java" />
+    <entry file="file://$PROJECT_DIR$/apiall-api/src/main/java/com/xfy/javaall/api/service/GetRegionService.java" />
+    <entry file="file://$PROJECT_DIR$/apiall-db/src/main/java/com/xfy/javaall/db/dao/GoodsProductMapper.java" />
+    <entry file="file://$PROJECT_DIR$/apiall-api/src/main/java/com/xfy/javaall/api/annotation/support/LoginUserHandlerMethodArgumentResolver.java" />
+    <entry file="file://$PROJECT_DIR$/apiall-api/src/main/java/com/xfy/javaall/api/web/WxAddressController.java" />
+    <entry file="file://$PROJECT_DIR$/apiall-api/src/main/java/com/xfy/javaall/api/config/WxWebMvcConfiguration.java" />
+    <entry file="file://$PROJECT_DIR$/apiall-api/src/main/java/com/xfy/javaall/api/annotation/LoginUser.java" />
+    <entry file="file://$PROJECT_DIR$/apiall-api/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apiall-core/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/apiall-core/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/apiall-core/src/main/resources/application-core.yml" />
+    <entry file="file://$PROJECT_DIR$/apiall-core/src/main/resources/application.yml" />
+    <entry file="file://$PROJECT_DIR$/apiall-api/apiall-api.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apiall-db/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apiall-api/src/main/java/com/xfy/apiall/api/config/JwtConfiguration.java" />
+    <entry file="file://$PROJECT_DIR$/could-server/src/main/java/com/xfy/cloud_server/CouldServerRunApp.java" />
+    <entry file="file://$PROJECT_DIR$/could-server/src/main/resources/application.yml" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-105">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>yxfapi</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

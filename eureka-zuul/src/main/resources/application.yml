@@ -1,0 +1,21 @@
+spring:
+  application:
+    name: eureka_zuul
+  messages:
+    encoding: UTF-8
+
+server:
+  port: 8086
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://user:password123@192.168.0.106:8761/eureka
+
+logging:
+  level:
+    root:  ERROR
+    org.springframework:  ERROR
+    org.mybatis:  ERROR
+    com.xfy.apiall.core:  DEBUG
+

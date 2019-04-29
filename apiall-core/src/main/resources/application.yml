@@ -1,0 +1,18 @@
+spring:
+  profiles:
+    active: core
+  messages:
+    encoding: UTF-8
+  redis:
+      host: localhost
+      password: redis123456
+      port: 6379
+      timeout: 1000
+
+logging:
+  level:
+    root:  ERROR
+    org.springframework:  ERROR
+    org.mybatis:  ERROR
+    com.xfy.apiall.core:  DEBUG
+

@@ -1,0 +1,35 @@
+spring:
+  application:
+    name: provider-example
+  profiles:
+    active: db,core,api
+  messages:
+    encoding: UTF-8
+
+server:
+  port: 7081
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://user:password123@192.168.0.106:8761/eureka
+
+logging:
+  level:
+    root:  ERROR
+    org.springframework:  ERROR
+    org.mybatis:  ERROR
+    com.xfy.apiall.api:  DEBUG
+    com.xfy.apiall:  ERROR
+
+info:
+  app:
+    name: "@project.artifactId@"
+    encoding: '@project.build.sourceEncoding@'
+    java:
+      source: '@java.version@'
+      target: '@java.version@'
+    author: "Jerry"
+    notes: "这是一个样例微服务接口说明"
+
+

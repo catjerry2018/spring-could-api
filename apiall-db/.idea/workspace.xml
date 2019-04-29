@@ -1,0 +1,672 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="apiall-db-0.1.0:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="98c8359b-b453-4133-9d5d-3e69c754af0c" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/db/domain/LitemallUser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="844">
+              <caret line="226" column="23" selection-start-line="226" selection-start-column="18" selection-end-line="226" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/db/dao/LitemallUserMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="281">
+              <caret line="46" column="23" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/db/service/LitemallUserService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="269">
+              <caret line="18" column="27" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#755#756#0" expanded="true" />
+                <element signature="e#811#812#0" expanded="true" />
+                <element signature="e#870#871#0" expanded="true" />
+                <element signature="e#930#931#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/db/domain/LitemallUserExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="356">
+              <caret line="254" column="9" lean-forward="true" selection-start-line="254" selection-start-column="9" selection-end-line="254" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#991#992#0" expanded="true" />
+                <element signature="e#1047#1048#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/com/xfy/apiall/db/dao/LitemallUserMapper.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="206">
+              <caret line="261" column="67" selection-start-line="261" selection-start-column="63" selection-end-line="261" selection-end-column="67" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>addstoc</find>
+      <find>address</find>
+      <find>insert</find>
+      <find>orderByClause</find>
+      <find>LitemallAdMapper</find>
+      <find>lin</find>
+      <find>xfy</find>
+      <find>F:\litemall-master\litemall-</find>
+      <find>selectByExample</find>
+      <find>and</find>
+      <find>deleteByExample</find>
+      <find>countByExample</find>
+      <find>queryByHot</find>
+      <find>selectByExampleSelective</find>
+      <find>Base_Column_List</find>
+      <find>getpa</find>
+      <find>jdbcType</find>
+      <find>insertSelective</find>
+      <find>selectByPrimaryKey</find>
+      <find>andDeletedEqualTo</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>F:\yxfapi\apiall-</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/resources/application-db.yml" />
+        <option value="$PROJECT_DIR$/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+        <option value="$PROJECT_DIR$/mybatis-generator/generatorConfig.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xfy/apiall/db/service/LitemalUserService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xfy/apiall/db/dao/LitemallUserMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xfy/apiall/db/service/LitemallUserService.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/com/xfy/apiall/db/dao/LitemallUserMapper.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="apiall-db" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="apiall-db" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Run Configurations" type="21c1f71a:MavenProjectsStructure$RunConfigurationsNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="260" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="apiall-db" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apiall-db" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apiall-db" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apiall-db" type="462c0819:PsiDirectoryNode" />
+              <item name="mybatis-generator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apiall-db" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apiall-db" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apiall-db" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apiall-db" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apiall-db" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apiall-db" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apiall-db" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apiall-db" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="db" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apiall-db" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apiall-db" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="db" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apiall-db" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apiall-db" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="db" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apiall-db" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apiall-db" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="db" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apiall-db" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apiall-db" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apiall-db" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apiall-db" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556414919904" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.xfy.apiall.db.service" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Maven.apiall-db [mybatis-generator:generate]">
+    <configuration name="All in apiall-db" type="JUnit" factoryName="JUnit" temporary="true">
+      <module name="apiall-db" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="apiall-db [mybatis-generator:generate]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="mybatis-generator:generate" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Maven.apiall-db [mybatis-generator:generate]" />
+        <item itemvalue="JUnit.All in apiall-db" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="98c8359b-b453-4133-9d5d-3e69c754af0c" name="Default Changelist" comment="" />
+      <created>1553137462147</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553137462147</updated>
+      <workItem from="1553137464515" duration="80000" />
+      <workItem from="1553138824838" duration="694000" />
+      <workItem from="1553139605527" duration="2768000" />
+      <workItem from="1553142663664" duration="606000" />
+      <workItem from="1553143468062" duration="6505000" />
+      <workItem from="1553302464722" duration="6568000" />
+      <workItem from="1553328116434" duration="1043000" />
+      <workItem from="1554184746273" duration="95000" />
+      <workItem from="1554184955272" duration="1335000" />
+      <workItem from="1554186322203" duration="2290000" />
+      <workItem from="1554188628527" duration="579000" />
+      <workItem from="1554190320084" duration="2525000" />
+      <workItem from="1554193891127" duration="39000" />
+      <workItem from="1554194428287" duration="10000" />
+      <workItem from="1554205647939" duration="753000" />
+      <workItem from="1554253355004" duration="193000" />
+      <workItem from="1554253658542" duration="33000" />
+      <workItem from="1554277738612" duration="291000" />
+      <workItem from="1554278711584" duration="4098000" />
+      <workItem from="1554356513794" duration="944000" />
+      <workItem from="1554359583567" duration="2886000" />
+      <workItem from="1554690646973" duration="3957000" />
+      <workItem from="1554705180846" duration="32000" />
+      <workItem from="1554780866851" duration="21000" />
+      <workItem from="1554864163166" duration="45000" />
+      <workItem from="1554864354111" duration="1036000" />
+      <workItem from="1554868267125" duration="183000" />
+      <workItem from="1555291415498" duration="368000" />
+      <workItem from="1555293360497" duration="15000" />
+      <workItem from="1555295240005" duration="583000" />
+      <workItem from="1556414731554" duration="54000" />
+      <workItem from="1556414859212" duration="64000" />
+      <workItem from="1556415038443" duration="12000" />
+      <workItem from="1556505298286" duration="406000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="All_in_litemall-db - 2019.03.22 at 09h 46m 12s.xml">
+      <configuration name="All in litemall-db" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_apiall-db - 2019.04.04 at 13h 46m 03s.xml">
+      <configuration name="All in apiall-db" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="41111000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2217484" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.17226435" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.23510292" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Spring" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.21235102" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.30703625" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" weight="0.32995737" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/org/linlinjava/litemall/db/dao/LitemallCommentMapper.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/linlinjava/litemall/db/dao/LitemallGoodsMapper.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/linlinjava/litemall/db/domain/LitemallGoodsProduct.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/linlinjava/litemall/db/dao/GoodsProductMapper.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/linlinjava/litemall/db/service/LitemallGoodsProductService.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/linlinjava/litemall/db/domain/LitemallAddress.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/linlinjava/litemall/db/service/LitemallAddressService.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/linlinjava/litemall/db/dao/LitemallAddressMapper.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/linlinjava/litemall/db/domain/LitemallCartExample.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/linlinjava/litemall/db/dao/LitemallAdMapper.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/linlinjava/litemall/db/Application.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/linlinjava/litemall/db/service/LitemallAdminService.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/org/linlinjava/litemall/db/dao/LitemallAdMapper.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/linlinjava/litemall/db/domain/LitemallAd.java" />
+    <entry file="file://$PROJECT_DIR$/apiall-db.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2">
+          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" lean-forward="true" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/maven-archiver/pom.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/db/domain/LitemallSearchHistory.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/org/linlinjava/litemall/db/dao/GoodsProductMapper.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/com/xfy/apiall/db/dao/GoodsProductMapper.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/db/dao/GoodsProductMapper.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/db/domain/LitemallAd.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/db/domain/LitemallAdExample.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/db/dao/LitemallAdMapper.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/com/xfy/apiall/db/dao/LitemallAdMapper.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/db/service/LitemallAdService.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/com/xfy/apiall/db/dao/LitemallGoodsMapper.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/db/dao/LitemallGoodsMapper.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/db/domain/LitemallGoodsExample.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/db/service/LitemallGoodsService.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/db/service/CouponAssignService.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/db/dao/LitemallAddressMapper.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/db/util/OrderUtil.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/org/linlinjava/litemall/db/StockTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/org/linlinjava/litemall/db/MapperReturnTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/db/util/OrderHandleOption.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/db/util/CouponUserConstant.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/db/util/CouponConstant.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/db/mybatis/JsonIntegerArrayTypeHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/db/service/LitemallAddressService.java" />
+    <entry file="file://$PROJECT_DIR$/mybatis-generator/generatorConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="631">
+          <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application-db.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/db/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="22" lean-forward="true" selection-start-line="6" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/db/domain/LitemallUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="844">
+          <caret line="226" column="23" selection-start-line="226" selection-start-column="18" selection-end-line="226" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/db/dao/LitemallUserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="46" column="23" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/com/xfy/apiall/db/dao/LitemallUserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="261" column="67" selection-start-line="261" selection-start-column="63" selection-end-line="261" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/db/service/LitemallUserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="18" column="27" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#755#756#0" expanded="true" />
+            <element signature="e#811#812#0" expanded="true" />
+            <element signature="e#870#871#0" expanded="true" />
+            <element signature="e#930#931#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/db/domain/LitemallUserExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="254" column="9" lean-forward="true" selection-start-line="254" selection-start-column="9" selection-end-line="254" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#991#992#0" expanded="true" />
+            <element signature="e#1047#1048#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor>
+            <show-content>
+              <type id="jpa-descriptors" />
+              <type id="library" />
+              <type id="javaee-facet-resources" />
+              <type id="artifact" />
+            </show-content>
+          </artifact-editor>
+          <last-edited>apiall-db-0.1.0:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>9 (2)</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>apiall-db</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

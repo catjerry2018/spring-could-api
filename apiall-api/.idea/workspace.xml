@@ -1,0 +1,811 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8f15873e-a2fe-4dcf-9acb-8405a87e8cbf" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/api/Application.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="244">
+              <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/api/controller/SecureController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="34" column="43" selection-start-line="34" selection-start-column="40" selection-end-line="34" selection-end-column="48" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/api/controller/UserController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="625">
+              <caret line="25" column="30" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>lin</find>
+      <find>com.xfy.apiall.core.util</find>
+      <find>setExpireTime</find>
+      <find>jwt</find>
+      <find>org.springframework.boot</find>
+      <find>pring-boot-starter-parent</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>com.xfy.apiall.api.util</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>F:\yxfapi\litemall-wx-api</dir>
+      <dir>F:\yxfapi\apiall-api</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/org/linlinjava/litemall/wx/Application.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xfy/apiall/api/web/WxBrandController.java" />
+        <option value="$PROJECT_DIR$/apiall-api.iml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xfy/apiall/api/util/CharUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xfy/apiall/api/util/DateTimeUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xfy/apiall/api/util/HttpUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xfy/apiall/api/util/IpUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xfy/apiall/api/util/JacksonUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xfy/apiall/api/util/RegexUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xfy/apiall/api/util/ResponseUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xfy/apiall/api/util/SystemInfoPrinter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xfy/apiall/api/web/WxAddressController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xfy/apiall/api/util/JsonUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xfy/apiall/api/config/RedisConfiguration.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xfy/apiall/api/util/RedisUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xfy/apiall/api/web/SecurController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xfy/apiall/api/config/TokenUserArgumentResolver.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xfy/apiall/api/config/AppConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xfy/apiall/api/config/JwtConfiguration.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xfy/apiall/api/web/SecureController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xfy/apiall/api/web/UserController.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/xfy/apiall/api/WxConfigTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xfy/apiall/api/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xfy/apiall/api/Application.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xfy/apiall/api/controller/SecureController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="apiall-api" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="apiall-api" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="260" />
+    <option name="y" value="20" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="apiall-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apiall-api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apiall-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apiall-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apiall-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apiall-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apiall-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apiall-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apiall-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apiall-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apiall-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apiall-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apiall-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apiall-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apiall-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apiall-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apiall-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apiall-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apiall-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apiall-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apiall-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556505868725" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../apiall-db" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.5091954" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.xfy.apiall.api.config" />
+      <recent name="com.xfy.apiall.api.web" />
+      <recent name="com.xfy.apiall.api.util" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Application 7082">
+    <configuration name="All in apiall-api (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="apiall-api" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in apiall-api" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="apiall-api" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WxConfigTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="apiall-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xfy.apiall.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xfy.apiall.api" />
+      <option name="MAIN_CLASS_NAME" value="com.xfy.apiall.api.WxConfigTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WxConfigTest.getAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="apiall-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xfy.apiall.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xfy.apiall.api" />
+      <option name="MAIN_CLASS_NAME" value="com.xfy.apiall.api.WxConfigTest" />
+      <option name="METHOD_NAME" value="getAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WxConfigTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="apiall-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xfy.apiall.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xfy.apiall.api" />
+      <option name="MAIN_CLASS_NAME" value="com.xfy.apiall.api.WxConfigTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application 7081" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="apiall-api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xfy.apiall.api.Application" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <additionalParameters>
+        <param>
+          <option name="enabled" value="true" />
+          <option name="name" value="server.port" />
+          <option name="value" value="7081" />
+        </param>
+      </additionalParameters>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application 7082" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="apiall-api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xfy.apiall.api.Application" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <additionalParameters>
+        <param>
+          <option name="enabled" value="true" />
+          <option name="name" value="server.port" />
+          <option name="value" value="7082" />
+        </param>
+      </additionalParameters>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.All in apiall-api" />
+      <item itemvalue="JUnit.All in apiall-api (1)" />
+      <item itemvalue="JUnit.WxConfigTest" />
+      <item itemvalue="JUnit.WxConfigTest.getAll" />
+      <item itemvalue="JUnit.WxConfigTest.test" />
+      <item itemvalue="Spring Boot.Application 7082" />
+      <item itemvalue="Spring Boot.Application 7081" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.WxConfigTest" />
+        <item itemvalue="JUnit.All in apiall-api" />
+        <item itemvalue="JUnit.WxConfigTest.test" />
+        <item itemvalue="JUnit.WxConfigTest.getAll" />
+        <item itemvalue="JUnit.All in apiall-api (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f15873e-a2fe-4dcf-9acb-8405a87e8cbf" name="Default Changelist" comment="" />
+      <created>1553136611825</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553136611825</updated>
+      <workItem from="1553136616212" duration="726000" />
+      <workItem from="1553137680982" duration="1291000" />
+      <workItem from="1553139673038" duration="2703000" />
+      <workItem from="1553142680981" duration="743000" />
+      <workItem from="1554180999969" duration="104000" />
+      <workItem from="1554183231502" duration="156000" />
+      <workItem from="1554184666353" duration="174000" />
+      <workItem from="1554184977319" duration="773000" />
+      <workItem from="1554188358866" duration="3294000" />
+      <workItem from="1554193866103" duration="77000" />
+      <workItem from="1554193960111" duration="341000" />
+      <workItem from="1554194317610" duration="358000" />
+      <workItem from="1554194692205" duration="14000" />
+      <workItem from="1554204516396" duration="1772000" />
+      <workItem from="1554253143925" duration="450000" />
+      <workItem from="1554253613371" duration="328000" />
+      <workItem from="1554253960645" duration="947000" />
+      <workItem from="1554255429754" duration="1863000" />
+      <workItem from="1554262810391" duration="1989000" />
+      <workItem from="1554277613289" duration="6632000" />
+      <workItem from="1554690391131" duration="5414000" />
+      <workItem from="1554705706370" duration="9000" />
+      <workItem from="1554706232462" duration="12000" />
+      <workItem from="1554708448510" duration="17000" />
+      <workItem from="1554780826497" duration="39000" />
+      <workItem from="1554792981375" duration="3745000" />
+      <workItem from="1554804398009" duration="7597000" />
+      <workItem from="1554857654677" duration="17196000" />
+      <workItem from="1554879627422" duration="25000" />
+      <workItem from="1555290666841" duration="6660000" />
+      <workItem from="1555375991647" duration="20000" />
+      <workItem from="1555739857277" duration="1285000" />
+      <workItem from="1556075253211" duration="731000" />
+      <workItem from="1556078012945" duration="30000" />
+      <workItem from="1556413414666" duration="732000" />
+      <workItem from="1556414883904" duration="14000" />
+      <workItem from="1556415605219" duration="162000" />
+      <workItem from="1556415866827" duration="2397000" />
+      <workItem from="1556418542761" duration="2788000" />
+      <workItem from="1556422866121" duration="162000" />
+      <workItem from="1556423837947" duration="3423000" />
+      <workItem from="1556428086249" duration="248000" />
+      <workItem from="1556428535903" duration="6397000" />
+      <workItem from="1556500294679" duration="5537000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="WxConfigTest - 2019.04.09 at 20h 52m 45s.xml">
+      <configuration name="WxConfigTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WxConfigTest - 2019.04.09 at 20h 55m 29s.xml">
+      <configuration name="WxConfigTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WxConfigTest - 2019.04.09 at 20h 59m 54s.xml">
+      <configuration name="WxConfigTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WxConfigTest - 2019.04.09 at 21h 00m 13s.xml">
+      <configuration name="WxConfigTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WxConfigTest - 2019.04.09 at 21h 04m 42s.xml">
+      <configuration name="WxConfigTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WxConfigTest - 2019.04.09 at 21h 05m 35s.xml">
+      <configuration name="WxConfigTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WxConfigTest - 2019.04.10 at 09h 31m 20s.xml">
+      <configuration name="WxConfigTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WxConfigTest - 2019.04.10 at 09h 32m 24s.xml">
+      <configuration name="WxConfigTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WxConfigTest - 2019.04.28 at 10h 29m 50s.xml">
+      <configuration name="WxConfigTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WxConfigTest - 2019.04.28 at 10h 43m 22s.xml">
+      <configuration name="WxConfigTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="89375000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13965885" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.41061756" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.60883796" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3289689" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.21885157" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" weight="0.32936078" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.38699362" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.1/lib/src.zip!/java.base/java/lang/annotation/RetentionPolicy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="36" column="12" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/api/util/IpUtil.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.0.8.RELEASE/spring-context-5.0.8.RELEASE.jar!/org/springframework/cache/annotation/CachingConfigurerSupport.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.0.8.RELEASE/spring-context-5.0.8.RELEASE.jar!/org/springframework/context/annotation/Configuration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.0.8.RELEASE/spring-core-5.0.8.RELEASE.jar!/org/springframework/core/env/Environment.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/5.0.8.RELEASE/spring-test-5.0.8.RELEASE.jar!/org/springframework/test/context/web/WebAppConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/5.1.5.RELEASE/spring-test-5.1.5.RELEASE.jar!/org/springframework/test/context/junit4/SpringRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/5.1.5.RELEASE/spring-test-5.1.5.RELEASE.jar!/org/springframework/test/context/cache/DefaultCacheAwareContextLoaderDelegate.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="64" selection-start-line="64" selection-end-line="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.0.9.RELEASE/spring-data-redis-2.0.9.RELEASE.jar!/org/springframework/data/redis/serializer/StringRedisSerializer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+          <folding>
+            <element signature="e#459#460#0" expanded="true" />
+            <element signature="e#503#504#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/5.1.5.RELEASE/spring-test-5.1.5.RELEASE.jar!/org/springframework/test/context/support/DefaultTestContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/5.1.5.RELEASE/spring-test-5.1.5.RELEASE.jar!/org/springframework/test/context/TestContextManager.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="108" selection-start-line="108" selection-end-line="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.0.9.RELEASE/spring-data-redis-2.0.9.RELEASE.jar!/org/springframework/data/redis/core/RedisTemplate.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="46" column="13" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/api/util/JacksonUtil.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/api/util/JsonUtil.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/api/util/WxResponseCode.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/api/service/HomeCacheManager.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/api/service/CaptchaCodeManager.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/api/dao/CaptchaItem.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/api/config/WxWebMvcConfiguration.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/api/util/HttpUtil.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/api/dao/UserToken.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/api/dao/WxLoginInfo.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/api/service/UserTokenManager.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/api/annotation/support/LoginUserHandlerMethodArgumentResolver.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/api/dao/UserInfo.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/api/util/ResponseUtil.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.0.8.RELEASE/spring-context-5.0.8.RELEASE.jar!/org/springframework/validation/annotation/Validated.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.8.RELEASE/spring-web-5.0.8.RELEASE.jar!/org/springframework/web/bind/annotation/RequestAttribute.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.8.RELEASE/spring-web-5.0.8.RELEASE.jar!/org/springframework/web/bind/annotation/RequestParam.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/api/annotation/LoginUser.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/api/config/TokenUserArgumentResolver.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/api/config/AppConfig.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application-api.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/xfy/apiall-db/0.1.0/apiall-db-0.1.0.jar!/com/xfy/apiall/db/dao/LitemallUserMapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="34" column="43" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.0.8.RELEASE/spring-context-5.0.8.RELEASE.jar!/org/springframework/stereotype/Component.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.0.8.RELEASE/spring-context-5.0.8.RELEASE.jar!/org/springframework/stereotype/Controller.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.8.RELEASE/spring-web-5.0.8.RELEASE.jar!/org/springframework/web/bind/annotation/RestController.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="22" column="23" lean-forward="true" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/api/config/RedisConfiguration.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/api/util/RedisUtil.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/api/config/JwtConfiguration.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/xfy/apiall-db/0.1.0/apiall-db-0.1.0.jar!/com/xfy/apiall/db/service/LitemallUserService.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/application-api.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-150" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/com/xfy/apiall/api/Application.class" />
+    <entry file="file://$PROJECT_DIR$/apiall-api.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="623">
+          <caret line="33" column="19" lean-forward="true" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1605">
+          <caret line="68" column="37" selection-start-line="68" selection-start-column="37" selection-end-line="68" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/api/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/api/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="625">
+          <caret line="25" column="30" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/xfy/apiall/api/WxConfigTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/api/controller/SecureController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="34" column="43" selection-start-line="34" selection-start-column="40" selection-end-line="34" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.5091954" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.5091954" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>9</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.5091954" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>apiall-api</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.5091954" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.5091954" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
