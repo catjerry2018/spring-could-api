@@ -30,6 +30,6 @@ info:
       source: '@java.version@'
       target: '@java.version@'
     author: "Jerry"
-    notes: "这是一个样例微服务接口说明"
+    notes: "这是一个样例微服务说明文字。"
 
 
