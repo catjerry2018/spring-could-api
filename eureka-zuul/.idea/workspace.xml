@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f15873e-a2fe-4dcf-9acb-8405a87e8cbf" name="Default Changelist" comment="" />
+    <list default="true" id="8f15873e-a2fe-4dcf-9acb-8405a87e8cbf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../apiall-core/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apiall-db/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiall-api/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../apiall-api/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiall-core/.idea/apiall-core.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../apiall-core/.idea/apiall-core.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiall-core/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_11_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../apiall-core/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_8_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiall-core/.idea/libraries/Maven__com_squareup_okio_okio_1_14_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../apiall-core/.idea/libraries/Maven__com_squareup_okio_okio_1_13_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiall-core/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../apiall-core/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiall-db/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../apiall-db/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eureka-server/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-server/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eureka-server/eureka-server.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eureka-server/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-server/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,6 +30,18 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="50">
               <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/eureka_zuul/Application.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="268">
+              <caret line="12" selection-start-line="12" selection-end-line="12" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -37,6 +63,10 @@
       <dir>F:\yxfapi\litemall-wx-api</dir>
       <dir>F:\yxfapi\apiall-api</dir>
     </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -68,8 +98,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/xfy/apiall/core/config/JwtConfiguration.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/xfy/apiall/eureka_zuul/Application.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/xfy/apiall/eureka_zuul/WxConfigTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xfy/apiall/eureka_zuul/Application.java" />
       </list>
     </option>
   </component>
@@ -95,13 +125,12 @@
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -167,6 +196,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -177,12 +208,12 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556505762644" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../apiall-api" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559533970870" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.5091954" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -267,53 +298,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <module name="eureka-zuul" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <module name="eureka-zuul" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="eureka-zuul" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.xfy.apiall.eureka_zuul.Application" />
@@ -381,7 +365,20 @@
       <workItem from="1556414579371" duration="366000" />
       <workItem from="1556414958655" duration="801000" />
       <workItem from="1556499931328" duration="3723000" />
+      <workItem from="1556507735789" duration="1113000" />
+      <workItem from="1556509227765" duration="1242000" />
+      <workItem from="1557127454869" duration="701000" />
+      <workItem from="1559533736754" duration="489000" />
+      <workItem from="1559799936119" duration="239000" />
     </task>
+    <task id="LOCAL-00001" summary="CORS跨域解决">
+      <created>1556510458030</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1556510458030</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -417,13 +414,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73137000" />
+    <option name="totallyTimeSpent" value="77070000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22068231" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23187633" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -433,7 +430,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.16684724" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27548808" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.60883796" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -461,6 +458,10 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="CORS跨域解决" />
+    <option name="LAST_COMMIT_MESSAGE" value="CORS跨域解决" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="jar://C:/Program Files/Java/jdk-9.0.1/lib/src.zip!/java.base/java/lang/annotation/RetentionPolicy.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -469,13 +470,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/eureka_zuul/util/IpUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/eureka_zuul/util/IpUtil.java" />
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.0.8.RELEASE/spring-context-5.0.8.RELEASE.jar!/org/springframework/cache/annotation/CachingConfigurerSupport.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -550,44 +545,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/eureka_zuul/util/JacksonUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="751">
-          <caret line="118" column="47" selection-start-line="118" selection-start-column="43" selection-end-line="118" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/eureka_zuul/util/JsonUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="445">
-          <caret line="21" column="63" selection-start-line="21" selection-start-column="61" selection-end-line="21" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/eureka_zuul/util/JacksonUtil.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/eureka_zuul/util/JsonUtil.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/api/util/WxResponseCode.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/api/service/HomeCacheManager.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/api/service/CaptchaCodeManager.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/api/dao/CaptchaItem.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/api/config/WxWebMvcConfiguration.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/eureka_zuul/util/HttpUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/eureka_zuul/util/HttpUtil.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/api/dao/UserToken.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/api/dao/WxLoginInfo.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/api/service/UserTokenManager.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/api/annotation/support/LoginUserHandlerMethodArgumentResolver.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/api/dao/UserInfo.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/eureka_zuul/util/ResponseUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1575">
-          <caret line="63" column="64" lean-forward="true" selection-start-line="63" selection-start-column="64" selection-end-line="63" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/eureka_zuul/util/ResponseUtil.java" />
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.0.8.RELEASE/spring-context-5.0.8.RELEASE.jar!/org/springframework/validation/annotation/Validated.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -649,44 +620,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/eureka_zuul/util/RedisUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="925">
-          <caret line="37" column="22" lean-forward="true" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/eureka_zuul/util/RedisUtil.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/core/web/SecureController.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/core/web/UserController.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/resources/application-eureka_zuul.yml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/eureka_zuul/config/JwtConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/eureka_zuul/config/RedisConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/eureka_zuul/config/JwtConfiguration.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/eureka_zuul/config/RedisConfiguration.java" />
     <entry file="file://$PROJECT_DIR$/.idea/eureka-zuul.iml">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/eureka_zuul/Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/xfy/apiall/eureka_zuul/WxConfigTest.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -707,6 +647,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/eureka-zuul.iml">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application-eureka_zuul.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/eureka_zuul/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="12" selection-start-line="12" selection-end-line="12" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">

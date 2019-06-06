@@ -39,7 +39,7 @@ public class JwtConfiguration extends GenericFilterBean {
 
             try {
                 final Claims claims = Jwts.parser().setSigningKey("secretkey").parseClaimsJws(token).getBody();
-                request.setAttribute("claims", claims);//建议保存写入上下文content
+                request.setAttribute("claims", claims);//
             } catch (final SignatureException e) {
                 throw new ServletException("Invalid token");
             }

@@ -6,7 +6,21 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98c8359b-b453-4133-9d5d-3e69c754af0c" name="Default Changelist" comment="" />
+    <list default="true" id="98c8359b-b453-4133-9d5d-3e69c754af0c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../apiall-core/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiall-api/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../apiall-api/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiall-core/.idea/apiall-core.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../apiall-core/.idea/apiall-core.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiall-core/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_11_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../apiall-core/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_8_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiall-core/.idea/libraries/Maven__com_squareup_okio_okio_1_14_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../apiall-core/.idea/libraries/Maven__com_squareup_okio_okio_1_13_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiall-core/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../apiall-core/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eureka-server/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-server/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eureka-server/eureka-server.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eureka-server/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-server/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eureka-zuul/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka-zuul/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,6 +45,15 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/db/Application.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="7" selection-start-line="7" selection-end-line="7" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="50">
@@ -39,62 +62,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/db/domain/LitemallUser.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="844">
-              <caret line="226" column="23" selection-start-line="226" selection-start-column="18" selection-end-line="226" selection-end-column="23" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/db/dao/LitemallUserMapper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="281">
-              <caret line="46" column="23" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/db/service/LitemallUserService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
-              <caret line="18" column="27" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="33" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#755#756#0" expanded="true" />
-                <element signature="e#811#812#0" expanded="true" />
-                <element signature="e#870#871#0" expanded="true" />
-                <element signature="e#930#931#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/db/domain/LitemallUserExample.java">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/application-db.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="356">
-              <caret line="254" column="9" lean-forward="true" selection-start-line="254" selection-start-column="9" selection-end-line="254" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#991#992#0" expanded="true" />
-                <element signature="e#1047#1048#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="250">
+              <caret line="10" column="43" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="47" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/com/xfy/apiall/db/dao/LitemallUserMapper.xml">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="206">
-              <caret line="261" column="67" selection-start-line="261" selection-start-column="63" selection-end-line="261" selection-end-column="67" />
+            <state relative-caret-position="130">
+              <caret line="43" column="9" selection-start-line="43" selection-start-column="3" selection-end-line="43" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -105,7 +86,6 @@
     <findStrings>
       <find>addstoc</find>
       <find>address</find>
-      <find>insert</find>
       <find>orderByClause</find>
       <find>LitemallAdMapper</find>
       <find>lin</find>
@@ -117,16 +97,24 @@
       <find>countByExample</find>
       <find>queryByHot</find>
       <find>selectByExampleSelective</find>
-      <find>Base_Column_List</find>
       <find>getpa</find>
       <find>jdbcType</find>
       <find>insertSelective</find>
       <find>selectByPrimaryKey</find>
       <find>andDeletedEqualTo</find>
+      <find>Base_Column_List</find>
+      <find>insert</find>
+      <find>Mybatis-generator</find>
+      <find>log</find>
+      <find>myb</find>
+      <find>.xml</find>
     </findStrings>
     <replaceStrings>
       <replace>F:\yxfapi\apiall-</replace>
     </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -165,11 +153,14 @@
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -250,18 +241,34 @@
               <item name="resources" type="462c0819:PsiDirectoryNode" />
               <item name="dao" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="apiall-db" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apiall-db" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apiall-db" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apiall-db" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="apiall-db" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apiall-db" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556414919904" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558495449844" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -375,6 +382,20 @@
       <workItem from="1556414859212" duration="64000" />
       <workItem from="1556415038443" duration="12000" />
       <workItem from="1556505298286" duration="406000" />
+      <workItem from="1556508229559" duration="10000" />
+      <workItem from="1557714568140" duration="4987000" />
+      <workItem from="1558322879082" duration="145000" />
+      <workItem from="1558330490477" duration="77000" />
+      <workItem from="1558333464756" duration="14000" />
+      <workItem from="1558402230173" duration="4186000" />
+      <workItem from="1558489501955" duration="45000" />
+      <workItem from="1558490082604" duration="37000" />
+      <workItem from="1558490217905" duration="35000" />
+      <workItem from="1558490291958" duration="10000" />
+      <workItem from="1558491434435" duration="1241000" />
+      <workItem from="1558494667313" duration="43000" />
+      <workItem from="1558495377674" duration="106000" />
+      <workItem from="1558590716029" duration="4000" />
     </task>
     <servers />
   </component>
@@ -387,13 +408,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41111000" />
+    <option name="totallyTimeSpent" value="52051000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2217484" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23400854" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -433,11 +454,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/resources/org/linlinjava/litemall/db/dao/LitemallCommentMapper.xml" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/linlinjava/litemall/db/dao/LitemallGoodsMapper.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/linlinjava/litemall/db/domain/LitemallGoodsProduct.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/linlinjava/litemall/db/dao/GoodsProductMapper.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/org/linlinjava/litemall/db/service/LitemallGoodsProductService.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/org/linlinjava/litemall/db/domain/LitemallAddress.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/org/linlinjava/litemall/db/service/LitemallAddressService.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/org/linlinjava/litemall/db/dao/LitemallAddressMapper.java" />
@@ -447,13 +463,6 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/org/linlinjava/litemall/db/service/LitemallAdminService.java" />
     <entry file="file://$PROJECT_DIR$/src/main/resources/org/linlinjava/litemall/db/dao/LitemallAdMapper.xml" />
     <entry file="file://$PROJECT_DIR$/src/main/java/org/linlinjava/litemall/db/domain/LitemallAd.java" />
-    <entry file="file://$PROJECT_DIR$/apiall-db.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2">
-          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -492,6 +501,18 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/db/util/OrderHandleOption.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/db/util/CouponUserConstant.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/db/util/CouponConstant.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/db/service/LitemallAddressService.java" />
+    <entry file="file://$PROJECT_DIR$/sql/litemall_data.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-975" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sql/litemall_table.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sql/litemall_schema.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/db/mybatis/JsonIntegerArrayTypeHandler.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
@@ -499,70 +520,53 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/db/mybatis/JsonNodeTypeHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        <state relative-caret-position="175">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/db/service/LitemallAddressService.java" />
-    <entry file="file://$PROJECT_DIR$/mybatis-generator/generatorConfig.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/db/mybatis/JsonStringArrayTypeHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="631">
-          <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
+        <state relative-caret-position="175">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/application-db.yml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/db/domain/LitemallUserExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="10" />
+        <state relative-caret-position="-761">
+          <caret line="2430" column="24" selection-start-line="2430" selection-start-column="24" selection-end-line="2430" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#991#992#0" expanded="true" />
+            <element signature="e#1047#1048#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/db/Application.java">
+    <entry file="file://$PROJECT_DIR$/apiall-db.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="22" lean-forward="true" selection-start-line="6" selection-end-line="14" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        <state relative-caret-position="25">
+          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/db/domain/LitemallUser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="844">
-          <caret line="226" column="23" selection-start-line="226" selection-start-column="18" selection-end-line="226" selection-end-column="23" />
+        <state relative-caret-position="1218">
+          <caret line="582" column="23" lean-forward="true" selection-start-line="582" selection-start-column="23" selection-end-line="582" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/db/dao/LitemallUserMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="46" column="23" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/com/xfy/apiall/db/dao/LitemallUserMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="261" column="67" selection-start-line="261" selection-start-column="63" selection-end-line="261" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/db/service/LitemallUserService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="18" column="27" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="33" />
+        <state relative-caret-position="643">
+          <caret line="33" column="33" lean-forward="true" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#755#756#0" expanded="true" />
@@ -573,15 +577,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/db/domain/LitemallUserExample.java">
+    <entry file="file://$PROJECT_DIR$/mybatis-generator/generatorConfig.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
-          <caret line="254" column="9" lean-forward="true" selection-start-line="254" selection-start-column="9" selection-end-line="254" selection-end-column="9" />
+        <state relative-caret-position="505">
+          <caret line="55" column="107" selection-start-line="55" selection-start-column="103" selection-end-line="55" selection-end-column="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/com/xfy/apiall/db/dao/LitemallUserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="75" lean-forward="true" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/db/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="7" selection-start-line="7" selection-end-line="7" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="43" column="9" selection-start-line="43" selection-start-column="3" selection-end-line="43" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xfy/apiall/db/dao/LitemallUserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="819">
+          <caret line="46" column="8" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#991#992#0" expanded="true" />
-            <element signature="e#1047#1048#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application-db.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="43" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="47" />
         </state>
       </provider>
     </entry>

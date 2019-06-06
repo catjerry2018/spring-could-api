@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8089852e-4060-4842-952d-b4ffaacb0b32" name="Default Changelist" comment="" />
+    <list default="true" id="8089852e-4060-4842-952d-b4ffaacb0b32" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/apiall-core/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiall-db/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apiall-api/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/apiall-api/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apiall-core/.idea/apiall-core.iml" beforeDir="false" afterPath="$PROJECT_DIR$/apiall-core/.idea/apiall-core.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apiall-core/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_11_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/apiall-core/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_8_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apiall-core/.idea/libraries/Maven__com_squareup_okio_okio_1_14_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/apiall-core/.idea/libraries/Maven__com_squareup_okio_okio_1_13_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apiall-core/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/apiall-core/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apiall-db/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/apiall-db/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-server/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-server/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-server/eureka-server.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-server/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-server/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-zuul/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-zuul/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +56,9 @@
       <dir>F:\yxfapi</dir>
     </dirStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -78,8 +94,84 @@
         <subPane>
           <expand>
             <path>
-              <item name="yxfcouldapi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="yxfcouldapi" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-could-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-could-api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-could-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-could-api" type="462c0819:PsiDirectoryNode" />
+              <item name="apiall-api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-could-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-could-api" type="462c0819:PsiDirectoryNode" />
+              <item name="apiall-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-could-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-could-api" type="462c0819:PsiDirectoryNode" />
+              <item name="apiall-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-could-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-could-api" type="462c0819:PsiDirectoryNode" />
+              <item name="apiall-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-could-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-could-api" type="462c0819:PsiDirectoryNode" />
+              <item name="apiall-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-could-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-could-api" type="462c0819:PsiDirectoryNode" />
+              <item name="apiall-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="xfy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-could-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-could-api" type="462c0819:PsiDirectoryNode" />
+              <item name="apiall-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="xfy" type="462c0819:PsiDirectoryNode" />
+              <item name="apiall" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-could-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-could-api" type="462c0819:PsiDirectoryNode" />
+              <item name="apiall-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="xfy" type="462c0819:PsiDirectoryNode" />
+              <item name="apiall" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-could-api" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-could-api" type="462c0819:PsiDirectoryNode" />
+              <item name="apiall-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -133,16 +225,17 @@
       <workItem from="1556426867529" duration="950000" />
       <workItem from="1556439264444" duration="26000" />
       <workItem from="1556499957931" duration="22000" />
+      <workItem from="1558336249721" duration="1380000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6717000" />
+    <option name="totallyTimeSpent" value="8097000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2782516" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28144988" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -206,10 +299,13 @@
     <entry file="file://$PROJECT_DIR$/could-server/src/main/resources/application.yml" />
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-105">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        <state relative-caret-position="-1150">
+          <caret line="41" column="34" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="34" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apiall-api/src/main/java/com/xfy/apiall/api/Application.java">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
